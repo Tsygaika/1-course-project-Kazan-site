@@ -1,0 +1,239 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background-color: white;
+	background-image: url('../images/background_main.png');	/*фон страницы */
+	background-attachment: fixed;
+	height: 2850px;
+}
+
+html{
+	scroll-behavior: smooth;
+	/*min-width: 1300px;*/
+}
+
+header{
+	display: flex;
+	justify-content: center;
+}
+
+.all_header{	/* стили для шапки*/
+	left: 0;
+	right: 0;
+	position:fixed;
+	z-index: 3;
+    border: 0;
+    background-color: white;
+    float: left;
+    text-align: center;
+    box-shadow: 0px 0px 50px 2px #8c8c8c;
+}
+
+.top_menu{
+	display:  inline-block;
+	vertical-align: middle;
+}
+
+.top_menu li{
+	display:  inline-block;
+	vertical-align: middle;
+}
+
+.top_menu a{
+	vertical-align: middle;
+	font-family: Arial;
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+	margin-left: 70px;
+	margin-right: 120px;
+	font-weight: 600;
+}
+
+.header_text {
+	color: black;
+	transition: all 0.2s ease-out;
+}
+
+.header_text:hover {
+	color: #0e84b4;
+	transition: all 0.2s ease-out;
+}
+
+td, th {	/* стили для белого прямоугольника и всего, что в нем находится*/
+	vertical-align:top;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.pattern{
+	height: 510px;
+	width: 60px;
+	padding: 10px;
+}
+
+.headertitle {
+    font-family: Arial; /*шрифт*/
+	font-size: 45px;/*размер в пикселях*/
+	font-weight: 100; /*толщина букв* от 100 до 1000*/
+	color: #000;
+	text-align: center;
+	font-weight: 700;
+
+	text-decoration: underline ;/*настройка подчеркивания*/
+	text-decoration-color: #0e84b4;
+	text-underline-offset: 5px;
+	text-decoration-thickness: 4px;
+}
+
+.rectangle{
+	margin-top: 135px;
+	margin-bottom: 0px;
+	left:  auto;
+	right: auto;
+    height: 530px;
+    background-color: #fff;
+    box-shadow: 0px 0px 50px 2px #0e84b4;
+}
+
+.map{ /*карта*/
+	position: relative;
+	text-align: center;
+}
+
+svg{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+
+circle{
+	opacity: 0.5;
+	fill: #0e84b4;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+circle:hover{
+	opacity: 0.8;
+	transition: 0.3s;
+}
+
+.headertitle2 {	/* надпись "сооружения" */
+	padding-top:70px;
+    font-family: Arial; /*шрифт*/
+	font-size: 30px;/*размер в пикселях*/
+	font-weight: 600; /*толщина букв* от 100 до 1000*/
+	color: #000;
+	text-align: center;
+	text-shadow: 0px 0px 25px #dedede;
+
+	text-decoration: underline ;/*настройка подчеркивания*/
+	text-decoration-color: #0e84b4;
+	text-underline-offset: 2px;
+	text-decoration-thickness: 2px;
+}
+
+.container{		/*стили сетки с карточками */
+	max-width: 1040px;
+	margin: 0 auto;
+	padding: 0 0px;
+}
+
+.card-section{
+	padding: 0px 0;
+}
+
+.cards{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 40px;
+	grid-row-gap: 45px;
+	margin: 0;	
+	padding: 0;
+	list-style-type: none;
+}
+
+.card{
+	display: inline-block;
+	background-color: rgba(255,255,255,0.7);
+	width: 300px;
+	height: 230px;
+	border-radius: 15px;
+	padding: 10px;
+	box-shadow: 0px 0px 15px 5px #8a8a8a;
+
+	transition: all 0.3s ease-out;
+}
+
+.card:hover {
+	align-content: center;
+	background-color: #F3F3F3;
+	width: 300px;
+	height: 230px;
+	border-radius: 10px;
+	padding: 10px;
+	box-shadow: 0px 0px 15px 2px #0e84b4;
+
+	transform: scale(1.07);
+	-webkit-transform: scale(1.07);
+	-ms-transform: scale(1.07);
+}
+
+.card img{
+	transition: all 0.3s ease-out;
+}
+
+.card:hover img {
+	border-radius: 6px;
+
+}
+.card-img{
+	width: 300px;
+	border-radius: 10px;
+}
+
+.card-title{
+	text-decoration: none;
+	margin-top: 3px;
+ 	font-family: Arial;
+ 	color: #000;
+ 	font-size: 20px;
+ 	text-align: center;
+}
+
+.text{
+	font-size: 25px;
+	color: #0e84b4;
+	font-family: Times New Roman;
+	line-height: 1.5;
+  	letter-spacing: 1px;
+  	margin-top: 20px;
+  	font-style: italic;
+}
+
+.quote{
+	font-family: Arial;
+	text-align: right;
+	font-size: 25px;
+	font-weight: lighter;
+	font-style: italic;
+}
+
+.yandex_map{
+    width: 600px;
+    padding: 10px;
+    background-color: rgba(255,255,255,0.7);
+    box-shadow: 0px 0px 15px 5px #8a8a8a;
+}
+
+.end{
+	margin-top: 40px;
+	font-family: Arial;
+	font-size:18px;
+}

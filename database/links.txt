@@ -1,0 +1,15 @@
+Baumana~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A3238234dc15577092c4dce5a9111b26c7e6fe1f2ed4737b46107c01ada9bde42&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Chasy~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A516966c2231a3f7402d418929f3c767501b72db371ee00839b12fe1489faaf99&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Dvorets~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A62c08ac66690f8b0add0ff1bdc948f4f1c919d059452d7f28c86a4d4df1bab27&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Kreml~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A21e66e8cdb1bf895dc46cd79c54d95453381d0c164c2677104ec15ea53898621&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Metro~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A4477122ea4ab9002125e96e54db4df0ad556f36c336ea226673530e6b2e15d7a&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Muzei~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Adba7ec8b695be08e8a0e93342c84fa45c2c35e614d92de63be420c6af040b894&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Petropavlovsky~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A74189e69a6cb1485391225995ac3e7c8a7a8a93a23787c6712298153f012077e&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Profsoyuznaya~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A897b2cb10f778171c96ae54df38172d7183009e69eed29adbde3b8a2790c442f&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+RailwayStation~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A911b133403afcea5e299f605d75b5f5e76a80384ec5f661cb9e852ec64d8f1fd&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Shalyapin~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Abf726b596ef58c3ff78c2ebc6092c5ffb5b9177e83a4498930dcca5c49c7cc0c&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Sinagoga~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A6d38f2774dbede134e1ec043f5a22f11e28ca6d1f7be482a03a8e519b7a8010a&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Staroe~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3Ac7e933796eb9d1313670901d5dd5396d760fcbf8833d78c638e7dfb2efb02e56&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Streets~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A92d3b18fb081f297195e5fe4855b767bc4fa51475b0f60ee1a5a8ea337662278&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Universitet~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A9c4690ea53d984558068abe4c0b426507f1430c47f932eb7798224f7ed5f2084&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
+Vnizu~https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A653b5b9fc582f7bf82be232fb051d7e63a44cef35a4f20ab10f6b9cdf886bc7d&amp;width=600&amp;height=400&amp;lang=ru_RU&amp;scroll=true
